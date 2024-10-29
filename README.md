@@ -3,6 +3,8 @@
 
 This project is to give the X1C6 a complete and functional build of macOS Sonoma `14.2.1` using the guide from  [here](https://github.com/tylernguyen/x1c6-hackintosh) with modified ACPI and updated kexts.
 
+https://elitemacx86.com/threads/how-to-fix-reboot-loop-when-installing-or-updating-to-macos-sonoma-14-4-and-later.1720/
+
 Using `MacbookPro15,2` SMBIOS
 
 ## My Specs
