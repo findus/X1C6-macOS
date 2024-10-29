@@ -10,7 +10,7 @@ Using `MacbookPro15,2` SMBIOS
 
 **Bios:** 1.60 Vanilla
 
-**CPU:** 2.11GHz Intel i7-8650U (0x8086)
+**CPU:** i5-8350U
 
 **GPU:** Intel UHD620 1536MB (0x5916)
 
@@ -18,21 +18,21 @@ Using `MacbookPro15,2` SMBIOS
 
 **Display:** 14" IPS Anti-Glare FHD Non-Touch, 1920x1080, 60Hz
 
-**Storage:** PCI-E x4 NVMe WD SN730 512GB
+**Storage:** PCI-E Samsung PM981 
 
 **Partition Type:** APFS
 
-**Wifi:** Intel Wireless AX210NGW
+**Wifi:** -
 
 **Bluetooth:** Intel Wireless AX210NGW
 
-**Bootloader:** OpenCore v0.9.7
+**Bootloader:** OpenCore v0.9.9
 
 ## Note
 Your laptop may or may not have the exact specs as mine. Results may vary. If you need help, please ask.
 
 ## Tested Configurations
-- macOS 14.2.1
+- macOS 14.7
 - BIOS 1.60
 
 # What Works
